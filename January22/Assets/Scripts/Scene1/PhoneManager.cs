@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class PhoneManager : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -14,5 +14,10 @@ public class PhoneManager : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void TappedNotification()
+    {
+        Debug.Log("I tapped a notification");
     }
 }
