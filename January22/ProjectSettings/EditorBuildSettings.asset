@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Technology.unity
     guid: f984c1112800c2741897edc1f602361a
+  - enabled: 1
+    path: Assets/Plugins/Pixel Crushers/Dialogue System/Demo/Scenes/DemoScene1.unity
+    guid: 955abf6400389cf4f8e68ac194db83e0
   m_configObjects: {}
